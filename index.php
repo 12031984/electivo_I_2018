@@ -1,4 +1,4 @@
 <?php
 echo "echo";
-echo "modificado en electivo i"
+echo "modificado en electivo I"
 ?>
